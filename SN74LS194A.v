@@ -1,5 +1,5 @@
 /*
-+ 4-BitBidirecional Universal Shift Register - 154
++ 4-Bit Bidirecional Universal Shift Register (SN74LS194As) - 154
 */
 module SN74LS194A(
     out1,out2,out3,out4,
