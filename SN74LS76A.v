@@ -1,3 +1,3 @@
-module (o);
+module ();
 
 endmodule
