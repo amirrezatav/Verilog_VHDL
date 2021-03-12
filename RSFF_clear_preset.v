@@ -10,12 +10,13 @@ module SRFF (
     PRE_,
     CLK_ // Clock
 );
-    input Set , Reset , PRE_ , CLR_ , CLK_;
     output out , out_ ;
+    input Set , Reset , PRE_ , CLR_ , CLK_;
     // Level 1 
     nand(w1,Set,CLK_);
     nand(w2,Reset,CLK_);
     // Level 2 
     nand(out,w1,out_,PRE_);
     nand(out_,w2,out,CLR_);
+    
 endmodule
