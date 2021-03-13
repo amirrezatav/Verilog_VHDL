@@ -12,8 +12,7 @@ module TristatesBuf (
     begin 
         if (outEnable)
         begin
-          not(dataInput_,dataInput);
-          out_ = dataInput_; 
+          out_ = ~dataInput; 
         end else begin
           out_ = 1'bZ;
         end 
