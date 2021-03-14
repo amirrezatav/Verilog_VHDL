@@ -1,4 +1,4 @@
-module ring4 (
+module ring_counter (
     clock,
     reset,
     count
