@@ -63,4 +63,8 @@ module SN74LS165(
     nand(cle7,pl,pre7);
     not(cle7_,cle7);
     SRFF(out,out_,q6,q6_,cle7_,pre7,w3_);
+<<<<<<< HEAD
 endmodule
+=======
+endmodule
+>>>>>>> d260b665c9410f6adf18d3aab88b4595204d03b9
