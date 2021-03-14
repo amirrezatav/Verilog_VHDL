@@ -1,4 +1,4 @@
-module ring4_test;
+module ring_counter_test;
 reg clock , reset;
 wire [3:0] count;
 
@@ -18,6 +18,6 @@ end
 initial begin
     $monitor ($time , " clock = %d , \t reset = %d , \t count = %b  " , clock , reset , count);
 end 
-ring4 dut(clock , reset , count);
+ring_counter dut(clock , reset , count);
 
 endmodule
