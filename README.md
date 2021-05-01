@@ -1,6 +1,4 @@
-# Verilog HDL
-
-## Wiki Content
+# Wiki Content
 + [The Conditional Statement](https://github.com/amirrezatav/Verilog_VHDL/wiki/The-Conditional-Statement)
 + [Blocking and Nonblocking Statements](https://github.com/amirrezatav/Verilog_VHDL/wiki/Blocking-and-Nonblocking-Statements)
 + [FileIO](https://github.com/amirrezatav/Verilog_VHDL/wiki/FileIO)
@@ -9,7 +7,7 @@
 + [Tri states Buffer](https://github.com/amirrezatav/Verilog_VHDL/wiki/Tri-states-Buffer)
 
 
-## verilog in VS Code
+# verilog in VS Code
 
 1- VSCode Verilog Preparation / 
 راه اندازی ویژال استودیو کد برا سهولت در نوستن کدهای وریلاگ در ویندوز
