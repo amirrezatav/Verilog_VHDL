@@ -17,11 +17,10 @@ Verilog - VHDL
            "verilog.linting.linter": "verilator"  
         }
      
-
-[The Conditional Statement](https://github.com/amirrezatav/Verilog_VHDL/wiki/The-Conditional-Statement)
-
-[Blocking and Nonblocking Statements](https://github.com/amirrezatav/Verilog_VHDL/wiki/Blocking-and-Nonblocking-Statements)
-[FileIO](https://github.com/amirrezatav/Verilog_VHDL/wiki/FileIO)
-[SR flip Flop with clear and preset](https://github.com/amirrezatav/Verilog_VHDL/wiki/SR-flip-Flop-with-clear-and-preset)
-[System Verilog Event](https://github.com/amirrezatav/Verilog_VHDL/wiki/System-Verilog-Event)
-[Tri states Buffer](https://github.com/amirrezatav/Verilog_VHDL/wiki/Tri-states-Buffer)
+## Wiki Content
++ [The Conditional Statement](https://github.com/amirrezatav/Verilog_VHDL/wiki/The-Conditional-Statement)
++ [Blocking and Nonblocking Statements](https://github.com/amirrezatav/Verilog_VHDL/wiki/Blocking-and-Nonblocking-Statements)
++ [FileIO](https://github.com/amirrezatav/Verilog_VHDL/wiki/FileIO)
++ [SR flip Flop with clear and preset](https://github.com/amirrezatav/Verilog_VHDL/wiki/SR-flip-Flop-with-clear-and-preset)
++ [System Verilog Event](https://github.com/amirrezatav/Verilog_VHDL/wiki/System-Verilog-Event)
++ [Tri states Buffer](https://github.com/amirrezatav/Verilog_VHDL/wiki/Tri-states-Buffer)
