@@ -7,7 +7,7 @@
 + [Tri states Buffer](https://github.com/amirrezatav/Verilog_VHDL/wiki/Tri-states-Buffer)
 
 
-# verilog in VS Code
+# Verilog in VS Code
 
 1- VSCode Verilog Preparation / 
 راه اندازی ویژال استودیو کد برا سهولت در نوستن کدهای وریلاگ در ویندوز
