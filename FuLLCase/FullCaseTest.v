@@ -1,5 +1,5 @@
 //-----------------------------------------------------
-// Design Name : FullCase
+// Design Name : Full_Case
 // File Name   : FullCaseTest.v
 // Function    : FullCaseTest
 // Coder       : Amirreza Tavakoli
