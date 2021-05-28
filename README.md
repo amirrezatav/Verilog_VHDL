@@ -5,7 +5,8 @@
 + [SR flip Flop with clear and preset](https://github.com/amirrezatav/Verilog_VHDL/wiki/SR-flip-Flop-with-clear-and-preset)
 + [System Verilog Event](https://github.com/amirrezatav/Verilog_VHDL/wiki/System-Verilog-Event)
 + [Tri states Buffer](https://github.com/amirrezatav/Verilog_VHDL/wiki/Tri-states-Buffer)
-
++ [Hamming Code](https://github.com/amirrezatav/Verilog_VHDL/wiki/Hamming-Code)
++ [Task and Function](https://github.com/amirrezatav/Verilog_VHDL/wiki/Task-and-Function)
 
 # Verilog in VS Code
 
