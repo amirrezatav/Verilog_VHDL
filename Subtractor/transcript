@@ -1,6 +1,8 @@
 # do setting.do 
-# ** Warning: (vlib-34) Library already exists at "work".
+# Copying C:\altera\81\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini
 # Modifying modelsim.ini
+# ** Warning: Copied C:\altera\81\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
 # Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
 # -- Compiling module Subtractor
 # -- Compiling module SubtractorTest
@@ -10,9 +12,6 @@
 # vsim SubtractorTest 
 # Loading work.SubtractorTest
 # Loading work.Subtractor
-# .main_pane.workspace.interior.cs.nb.canvas.notebook.cs.page2.cs
-# .main_pane.signals.interior.cs
-# .main_pane.mdi.interior.cs.vm.paneset.cli_0.wf.clip.cs.pw.wf
 #                    0 clk = 0 , in1 = 1100 , in2 = 1001 , BorrowIn = 0 , Out = xxxx , BorrowOut = x
 #                   10 clk = 1 , in1 = 1100 , in2 = 1001 , BorrowIn = 0 , Out = 0011 , BorrowOut = 0
 #                   20 clk = 0 , in1 = 1001 , in2 = 1011 , BorrowIn = 1 , Out = 0011 , BorrowOut = 0
@@ -23,3 +22,5 @@
 #                   70 clk = 1 , in1 = 0001 , in2 = 0101 , BorrowIn = 0 , Out = 1100 , BorrowOut = 1
 #                   80 clk = 0 , in1 = 0101 , in2 = 0101 , BorrowIn = 0 , Out = 1100 , BorrowOut = 1
 #                   90 clk = 1 , in1 = 0101 , in2 = 0101 , BorrowIn = 0 , Out = 0000 , BorrowOut = 0
+# 
+# <EOF> 
