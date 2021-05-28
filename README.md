@@ -15,7 +15,7 @@
 
 [Download PDF File foe VSCode Verilog Preparation](https://github.com/amirrezatav/Verilog_VHDL/blob/main/VSCodeVerilogPreparation%20.pdf)
 
-کد مورد نیاز برای کپی کردن در تنظیمات ویژوال استودیو کد :
+کد مورد نیاز برای کپی کردن در تنظیمات ویژوال استودیو کد : (VS Code Setting Code for verilog) 
 ```json
 {        
     "verilog.linting.verilator.runAtFileLocation": true,     
