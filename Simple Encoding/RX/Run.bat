@@ -1,0 +1,1 @@
+vsim -do SimulateOption.do -c
